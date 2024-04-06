@@ -10,7 +10,7 @@ Ci = E(Pi)
 - P[i+1]  iff i%3==1
 - P[i-2]  iff i%3==2
 
-## Decrypt
+### Decrypt
 Pi = D(Ci)
 - C[i+2]  iff i%3==0
 - C[i-1]  iff i%3==1
