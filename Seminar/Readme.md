@@ -4,6 +4,7 @@
 Requirements:  
 - pptx (30+ slides)
 - code / scripts
+- guide, manual
 - Deadline: W9 (19/5)
 
 ## Standards
