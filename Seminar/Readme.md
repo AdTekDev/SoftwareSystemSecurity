@@ -1,6 +1,11 @@
 
 # Seminar Topics
 
+Requirements:  
+- pptx (30+ slides)
+- code / scripts
+- Deadline: W9 (19/5)
+
 ## Standards
 - S01. OWASP Top 10
 - S02. PCI DSS
