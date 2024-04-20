@@ -17,3 +17,7 @@ Pi = D(Ci)
 - C[i-1]  iff i%3==2
 
   
+## 05.01
+
+https://www.samltool.com/self_signed_certs.php   
+https://8gwifi.org/SelfSignCertificateFunctions.jsp   
