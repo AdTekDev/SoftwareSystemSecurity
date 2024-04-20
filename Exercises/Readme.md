@@ -21,3 +21,10 @@ Pi = D(Ci)
 
 https://www.samltool.com/self_signed_certs.php   
 https://8gwifi.org/SelfSignCertificateFunctions.jsp   
+
+
+## 05.02
+
+m = p.q
+
+![image](https://github.com/AdTekDev/SoftwareSystemSecurity/assets/18588011/86c090b6-377d-4476-8990-1eef0a2c9f09)
