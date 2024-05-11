@@ -5,6 +5,10 @@
 Base45 is an encoding scheme that uses 7-bit printable ASCII characters.  
 Base45 divides the data into two bytes each and converts them into three ASCII characters to represent them.  
 
+2 bytes (14/16 bits) --> base10 (2^16) --> base 45 
+
+
+
 ## digits
 
 45 decimal digits	Base45 ASCII characters
