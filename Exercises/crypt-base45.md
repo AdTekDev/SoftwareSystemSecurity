@@ -7,11 +7,20 @@ Base45 divides the data into two bytes each and converts them into three ASCII c
 
 2 bytes (14/16 bits) --> base10 (2^16) --> base 45 
 
+**Ex.** 
+P:  "He"  
+Hex:  4865   
 
+Conv: 4865(16)  
+= 18533(10)  
+= 9 * 452 + 6 * 45 + 38  
+
+-->  
+C:  "%69"  
 
 ## digits
 
-45 decimal digits	Base45 ASCII characters
+45 decimal digits	Base45 ASCII characters   
 0	0  
 1	1  
 2	2  
