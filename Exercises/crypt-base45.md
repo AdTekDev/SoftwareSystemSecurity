@@ -8,8 +8,9 @@ Base45 divides the data into two bytes each and converts them into three ASCII c
 2 bytes (14/16 bits) --> base10 (2^16) --> base 45 
 
 **Ex.**   
-P:  "He"  
-Hex:  4865   
+P:  "eH"
+
+Hex:  48(H) 65(e)   
 
 Conv: 4865(16)  
 = 18533(10)  
