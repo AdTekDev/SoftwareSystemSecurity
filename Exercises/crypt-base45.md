@@ -57,3 +57,6 @@ Base45 divides the data into two bytes each and converts them into three ASCII c
 42	.   
 43	/  
 
+## Link
+- https://dencode.com/en/string/base45
+- 
