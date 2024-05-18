@@ -9,10 +9,10 @@ Give the Message M
 
 1. Divide X = M into n (32-bit word): W0, W1, W2, . . ., 0 ,0   (n % 3 == 0)  
 2. Init (hexa)  
-	A = 67452301  
-	B = EFCDAB89  
-	C = 98BADCFE  
-	h(0) = (A,B,C)  (3*32 = 96 bits)  
+	AA = 67452301  
+   	BB = EFCDAB89  
+	CC = 98BADCFE  
+	h(0) = (AA,BB,CC)  (3*32 = 96 bits)  
  
 3. Loop k (0..n/3)  
 	A = W[3*k] + AA (mod 2^32)  
