@@ -7,7 +7,7 @@ Hashing (h) 96-bits
 
 Give the Message M 
 
-1. Divide X = M into n (32-bit word): W0, W1, W2, . . ., 0 ,0   (n % 3 == 0)  
+1. Divide M into n (32-bit word): W0, W1, W2, . . ., 0 ,0   (n % 3 == 0)  
 2. Init (hexa)  
 	AA = 67452301  
    	BB = EFCDAB89  
