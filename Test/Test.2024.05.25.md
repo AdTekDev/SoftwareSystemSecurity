@@ -7,7 +7,7 @@ Write an encryption and decryption function for the following encryption scenari
 - Perform the following encryption to convert into CipherText, where CipherText is a string concatenated by bits created from the following result:
 
 R (initially) = 0  
-**Loop: **   
+**Loop:**   
 . C[i] = ( P[i] * Key  + R) % 2^(8+k-1)    
 . R = int[( P[i] * Key  + R) / 2^(8+k-1)]   
 
