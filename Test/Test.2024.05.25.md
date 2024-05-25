@@ -1,4 +1,6 @@
 
+## Problem:  
+
 Write an encryption and decryption function for the following encryption scenario:
 
 - Given a PlainText string P with N characters (8 bits per character)
