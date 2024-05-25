@@ -29,3 +29,4 @@ d. (2 points) Write an additional decryption function with the input as CipherTe
 - Link: https://mlearning.hoasen.edu.vn/mod/assign/view.php?id=1054114
 - Code zip
 - Result's Images
+- Mark 9-10: Show the step-by-step results in tasks c and d 
