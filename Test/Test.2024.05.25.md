@@ -21,3 +21,11 @@ a. (3 points) Write the encryption function with inputs
 b. (3 points) Write the decryption function with the input array CipherText.  
 c. (2 points) Convert CipherText into a string of Hexadecimal characters (0-9A-F) from every 4 bits.  
 d. (2 points) Write an additional decryption function with the input as CipherText in the format from task c.  
+
+## Time
+- Duration: 90'
+
+## Submit  
+- Link: https://mlearning.hoasen.edu.vn/mod/assign/view.php?id=1054114
+- Code zip
+- Result's Images
