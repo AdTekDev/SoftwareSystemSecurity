@@ -4,7 +4,7 @@
 
 ## Quiz
 
-"
+```
 DHCP is heavily used within cloud environments to maintain network
 conigurations in a centralized manner. Which o the ollowing is not a network
 coniguration that plays a role with DHCP?
@@ -14,4 +14,4 @@ C. MAC address
 D. Gateway
 
 
-"
+```
