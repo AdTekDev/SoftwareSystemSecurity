@@ -5,21 +5,24 @@ Requirements:
 - pptx(25+sildes)
 - project code
 - guide: install, config, build, run
-- Deadline:  W12 (18/6) 
+- topic: SRS
+- Deadline:  W12 
 
-## Web API (asp, go, java, php..)
+## Web API (asp, go, java, php, python, ruby, node/ts)
 
 Security (3 crypt)  
 - Encrypt
 - Decrypt
 
 Methods  
-- Login
+- Login (actors - Authentication + Authorization)
 - CRUD (post, get, put, delete)
 
 Use  
 - JWT –  JSON Web Token
-- HTTPs
 - Certificate Authority (CA)
+- HTTPs
+- Swagger
+- Digital Signatures(+)
 
 
