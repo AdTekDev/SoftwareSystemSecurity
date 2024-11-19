@@ -19,13 +19,13 @@ R (initially) = 0
 - C[i] is represented by 8+k-1 bits   
 - The encryption result is the set of values: C, R, Key
 
-## Q2. Tasks:
+### Tasks:
 a. (2 points) Write the encryption function with inputs   
 b. (2 points) Write the decryption function with the input array CipherText.  
 c. (2 points) Convert CipherText into a string of Hexadecimal characters (0-9A-F) from every 4 bits.  
 
 
-## Cryptanalysis Problem (3 points)
+## Q2. Cryptanalysis Problem (3 points)
 
 The task presents a scenario where an employee in a company has a specific password-setting habit:  
 
