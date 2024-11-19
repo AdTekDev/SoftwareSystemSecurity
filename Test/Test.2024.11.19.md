@@ -1,7 +1,7 @@
 
 # TEST 19.11
 
-## Encryption & Decryption Problem (6 points)
+## Q1. Encryption & Decryption Problem (6 points)
 
 Write an encryption and decryption function for the following encryption scenario:
 
@@ -19,7 +19,7 @@ R (initially) = 0
 - C[i] is represented by 8+k-1 bits   
 - The encryption result is the set of values: C, R, Key
 
-## Tasks:
+## Q2. Tasks:
 a. (2 points) Write the encryption function with inputs   
 b. (2 points) Write the decryption function with the input array CipherText.  
 c. (2 points) Convert CipherText into a string of Hexadecimal characters (0-9A-F) from every 4 bits.  
@@ -43,7 +43,8 @@ Given this information, **Implementing the python program (applying all rules)**
 - ATD.rar - https://github.com/AdTekDev/eCommerceSecurity/blob/main/Exercises/05-Net/ATD.rar
 - ATD.zip - https://github.com/AdTekDev/eCommerceSecurity/blob/main/Exercises/05-Net/ATD.zip
 
-* 1 point: 
+* 1 point: Submit the assignment 2/3 of the way before the deadline, complete all the requirements, write the code clearly, and display the results step by step.
+  
 ## Time
 - Duration: 100'
 - Time: 8:40 - 10:40 
