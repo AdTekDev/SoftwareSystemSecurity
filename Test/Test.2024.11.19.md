@@ -55,10 +55,10 @@ Link: https://mlearning.hoasen.edu.vn/mod/assign/view.php?id=1101676&forceview=1
 **3 parts:**
 - Result's Images
 - Source Code's Zip file
-- Mark 9-10: Show the step-by-step results in tasks c and d 
+- Mark 9-10: Show the step-by-step results
 
 ## Grading RULEs
 - If a student's submission is 90% identical to another, the score for that assignment will be 0.
 - If a student's submission is more than 60% similar to another, their score will be reduced by 25%.
-- If a student's submission shows clear signs of being copied entirely from ChatGPT, the maximum score they can receive is 4 points.
-- If a student's submission shows signs of being mostly copied from ChatGPT and still contains errors from the ChatGPT response, the maximum score they can receive is 7 points.
+- If a student's submission shows clear signs of being copied entirely from ChatGPT (Gemini, Copilot, Claude, ...), the maximum score they can receive is 4 points.
+- If a student's submission shows signs of being mostly copied from ChatGPT (Gemini, Copilot, Claude, ...) and still contains errors from the ChatGPT response, the maximum score they can receive is 7 points.
