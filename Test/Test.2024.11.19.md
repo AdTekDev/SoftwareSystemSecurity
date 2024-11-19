@@ -42,8 +42,9 @@ It's known that the current file is encrypted with a password consisting of 3 ch
 Given this information, **Implementing the python program (applying all rules)** to guess the password protecting the data and find the correct password to open the compressed file ATD.rar/zip.  
 - ATD.rar - https://github.com/AdTekDev/eCommerceSecurity/blob/main/Exercises/05-Net/ATD.rar
 - ATD.zip - https://github.com/AdTekDev/eCommerceSecurity/blob/main/Exercises/05-Net/ATD.zip
-
-* 1 point: Submit the assignment 2/3 of the way before the deadline, complete all the requirements, write the code clearly, and display the results step by step.
+   
+   
+**1 point**: Submit the assignment 2/3 of the way before the deadline, complete all the requirements, write the code clearly, and display the results step by step.
   
 ## Time
 - Duration: 100'
