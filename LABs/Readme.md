@@ -2,7 +2,11 @@
 
 ## OWASP
 - https://owasp.org/www-project-top-ten/
-- https://github.com/OWASP/wstg/tree/master/document 
+- https://github.com/OWASP/wstg/tree/master/document
+
+## OSINT
+- Trace Labs - https://github.com/tracelabs/tlosint-vm/releases
+- https://www.tracelabs.org/initiatives/osint-vm#downloads
 
 ## Tools
 - https://www.kali.org/get-kali/#kali-platforms
