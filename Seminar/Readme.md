@@ -10,7 +10,7 @@ Requirements:
 ## Standards
 - **S01**. OWASP Top 10
 - **S02**. PCI DSS
-- **S03**. TSL/SSL
+- **S03**. TLS/SSL
 - **S04**. OAuth 2.0
 
 ## Algorithms
